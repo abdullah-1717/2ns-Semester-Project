@@ -819,9 +819,7 @@ int main()
         cout << setw(77) << "***********************************************" << endl;
         cout << setw(31) << "*" << setw(46) << "*" << endl;
         cout << setw(31) << "*" << setw(25) << "Developed by:-" << setw(21) << "*" << endl;
-        cout << setw(31) << "*" << setw(23) << "JAWARIA ASIF" << setw(23) << "*" << endl;
         cout << setw(31) << "*" << setw(28) << "MUHAMMAD ABDULLAH" << setw(18) << "*" << endl;
-        cout << setw(31) << "*" << setw(29) << "RANA HAIDER SULTAN" << setw(17) << "*" << endl;
         cout << setw(31) << "*" << setw(46) << "*" << endl;
         cout << setw(77) << "***********************************************" << endl<< endl;
 
